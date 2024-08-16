@@ -1,6 +1,6 @@
-# Cloud SQL for PostgreSQL: Qwik Start || [GSP152](https://www.cloudskillsboost.google/focuses/937?parent=catalog) ||
+# Cloud SQL for PostgreSQL: Qwik Start 
 
-## Solution [here](https://youtu.be/Xxozzrl_nUU)
+## Solution 
 
 ### Run the following Commands in CloudShell
 
@@ -15,12 +15,6 @@ sudo chmod +x gsp152.sh
 ./gsp152.sh
 ```
 
-### Congratulations 🎉 for completing the Lab !
+### Congratulations 🎉 
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+##### You have successfully completed the lab on Cloud SQL for PostgreSQL: Qwik Start
